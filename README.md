@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Yefrisaurio30/Yefrisaurio30/output/snake.svg" alt="Snake animation" />
-
-###
